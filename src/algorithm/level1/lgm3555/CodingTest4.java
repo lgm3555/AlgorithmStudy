@@ -34,7 +34,7 @@ public class CodingTest4 {
             
             answer = answer + n - lost.length;
         } else {
-            answer = 5; 
+            answer = n; 
         }
 		
         return answer;
