@@ -1,5 +1,5 @@
 import java.util.HashSet;
-class Solution5 {
+class Solution {
     public int solution(int n, int[] lost, int[] reserve) {
         int answer = n;
         HashSet<Integer> reservedList = new HashSet<>();
