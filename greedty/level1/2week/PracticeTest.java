@@ -1,5 +1,5 @@
 import java.util.LinkedList;
-class Solution6 {
+class Solution {
     public int[] solution(int[] answers) {
         int[] pointCheck = new int[3];
         int[] surrender1 = {1, 2, 3, 4, 5};
