@@ -12,7 +12,7 @@ public class CodingTest4 {
 	 * 체육복 Solution (https://programmers.co.kr/learn/courses/30/lessons/42862)
 	 * 
 	 * @param n 학생 인원
-	 * @param lost 잃어버린 학생 번호
+	 * @param lost 잃어버린 학생 번호 
 	 * @param reserve 빌려줄수 있는 학생 번호 
 	 * @return
 	 */

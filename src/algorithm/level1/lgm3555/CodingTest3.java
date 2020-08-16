@@ -1,10 +1,5 @@
 package algorithm.level1.lgm3555;
 
-<<<<<<< HEAD
-import java.util.Arrays;
-
-=======
->>>>>>> f8a4f7100ef922af76b45ddf0d24d9d00e59ec83
 public class CodingTest3 {
 	public static void main(String[] args) {
 		int[] answers = { 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 1 };

@@ -9,7 +9,7 @@ public class CodingTest6 {
 	 * 2016 Solution (https://programmers.co.kr/learn/courses/30/lessons/12901)
 	 * 
 	 * @param a 월
-	 * @param b 일
+	 * @param b 일 
 	 * @return 요일
 	 */
 	public static String solution(int a, int b) {
