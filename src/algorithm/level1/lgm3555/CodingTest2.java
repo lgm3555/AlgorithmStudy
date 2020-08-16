@@ -11,11 +11,11 @@ public class CodingTest2 {
 	}
 
 	/**
-	 * Å©·¹ÀÎ ÀÎÇü»Ì±â Solution (https://programmers.co.kr/learn/courses/30/lessons/64061)
+	 * ì™„ì£¼í•˜ì§€ ëª»í•œ ì„ ìˆ˜ Solution (https://programmers.co.kr/learn/courses/30/lessons/42576)
 	 * 
-	 * @param board ÀÎÇüÀÌ ´ã¾ÆÁ®ÀÖ´Â 2Â÷¿ø ¹è¿­
-	 * @param moves Å©·¹ÀÎÀÌ ÀÛµ¿ÇÑ À§Ä¡°¡ ´ã±ä ¹è¿­
-	 * @return ÅÍÆ®·ÁÁø ÀÎÇüÀÇ °³¼ö
+	 * @param participant ë„ì „í•˜ëŠ” ì„ ìˆ˜ ëª©ë¡
+	 * @param completion ì™„ì£¼ì ëª©ë¡
+	 * @return ì™„ì£¼í•˜ì§€ ëª»í•œ ì„ ìˆ˜ ì´ë¦„
 	 */
 	public static String solution(String[] participant, String[] completion) {
 		Arrays.sort(participant);

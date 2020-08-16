@@ -11,11 +11,11 @@ public class CodingTest1 {
 	}
 
 	/**
-	 * Å©·¹ÀÎ ÀÎÇü»Ì±â Solution (https://programmers.co.kr/learn/courses/30/lessons/64061)
+	 * í¬ë ˆì¸ ì¸í˜•ë½‘ê¸° Solution (https://programmers.co.kr/learn/courses/30/lessons/64061)
 	 * 
-	 * @param board ÀÎÇüÀÌ ´ã¾ÆÁ®ÀÖ´Â 2Â÷¿ø ¹è¿­
-	 * @param moves Å©·¹ÀÎÀÌ ÀÛµ¿ÇÑ À§Ä¡°¡ ´ã±ä ¹è¿­
-	 * @return ÅÍÆ®·ÁÁø ÀÎÇüÀÇ °³¼ö
+	 * @param board ì¸í˜•ì´ ë‹´ì•„ì ¸ìˆëŠ” 2ì°¨ì› ë°°ì—´
+	 * @param moves í¬ë ˆì¸ì´ ì‘ë™í•œ ìœ„ì¹˜ê°€ ë‹´ê¸´ ë°°ì—´
+	 * @return í„°íŠ¸ë ¤ì§„ ì¸í˜•ì˜ ê°œìˆ˜
 	 */
 	public static int solution(int[][] board, int[] moves) {
 		int answer = 0;
