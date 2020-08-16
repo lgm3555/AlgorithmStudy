@@ -1,7 +1,7 @@
 import java.util.Iterator;
 import java.util.HashMap;
 import java.util.Map;
-class Solution7 {
+class Solution {
     public String solution(String[] participant, String[] completion) {
         String answer = "";
         Map<String, Integer> mapParticipant = new HashMap<String, Integer>();
