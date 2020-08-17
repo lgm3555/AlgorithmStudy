@@ -1,4 +1,4 @@
-public class Solution2 {
+public class Solution {
     public String solution(String answer) {
         String testAnswer = "";
         if (0 == (answer.length() % 2)) {
