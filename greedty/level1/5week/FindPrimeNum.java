@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Collections;
 
-class Solution2 {
+class Solution {
     public int solution(int n) {
         int answer = 0;
 
