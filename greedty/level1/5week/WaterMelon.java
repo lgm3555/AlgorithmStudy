@@ -1,8 +1,4 @@
-import java.util.Collections;
-import java.util.LinkedList;
-import java.util.List;
-
-class Solution3 {
+class Solution {
     public String solution(int n) {
 
         StringBuilder sb = new StringBuilder();
