@@ -14,10 +14,10 @@ public class CodingTest8 {
 	 * @return 숫자로만 구성되어 길이가 4,6이면 true, 아니면 false
 	 */
 	public static boolean solution(String s) {
-		boolean answer = true;
-
-		answer = s.replaceAll("[^0-9]", "").length() == 4 || s.replaceAll("[^0-9]", "").length() == 6 ? true : false;
-		
-		return answer;
+		if (s.length() == 4 || s.length() == 6) {
+			return s.matches("^[0-9]*$")
+		} else {
+			return false;
+		}
 	}
 }
