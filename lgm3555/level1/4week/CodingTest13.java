@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Comparator;
 
-public class CodingTest8 {
+public class CodingTest13 {
 	public static void main(String[] args) {
 		String s = "Zbcdefg";
 

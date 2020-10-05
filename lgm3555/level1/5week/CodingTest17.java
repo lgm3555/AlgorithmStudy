@@ -1,5 +1,5 @@
 
-public class CodingTest8 {
+public class CodingTest17 {
 	public static void main(String[] args) {
 		solution(1);
 	}

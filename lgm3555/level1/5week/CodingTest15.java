@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Comparator;
 
-public class CodingTest8 {
+public class CodingTest15 {
 	public static void main(String[] args) {
 		String[] seoul = { "Jane", "Kim" };
 
