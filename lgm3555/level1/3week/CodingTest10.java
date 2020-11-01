@@ -1,6 +1,6 @@
 import java.util.Stack;
 
-public class CodingTest8 {
+public class CodingTest10 {
 	public static void main(String[] args) {
 		solution(3, 5);
 	}

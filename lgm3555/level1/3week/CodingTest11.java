@@ -1,7 +1,7 @@
 import java.util.LinkedList;
 import java.util.List;
 
-public class CodingTest8 {
+public class CodingTest11 {
 	public static void main(String[] args) {
 		String[] strings = { "abce", "abcd", "cdx" };
 		int n = 2;

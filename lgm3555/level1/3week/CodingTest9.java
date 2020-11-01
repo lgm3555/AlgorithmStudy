@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Arrays;
 
-public class CodingTest8 {
+public class CodingTest9 {
 	public static void main(String[] args) {
 		int[] arr = { 5, 9, 7, 10 };
 		int divisor = 5;
